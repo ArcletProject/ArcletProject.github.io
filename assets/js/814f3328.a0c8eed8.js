@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarclet_penoparma=self.webpackChunkarclet_penoparma||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Alconna Principle","permalink":"/blog/alconna principle"}]}')}}]);
