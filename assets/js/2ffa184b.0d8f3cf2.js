@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkarclet_penoparma=self.webpackChunkarclet_penoparma||[]).push([[6393],{1258:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/alconna","name":"Alconna","count":1,"permalink":"/blog/tags/alconna"}')}}]);
