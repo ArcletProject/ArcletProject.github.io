@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarclet_document=self.webpackChunkarclet_document||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Alconna Principle","permalink":"/blog/alconna-principle"}]}')}}]);
